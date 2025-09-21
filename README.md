@@ -45,6 +45,11 @@ Now's the time to edit the code as you want. If you want to do any of the follow
 
 If you don't want to do those, try just screwing around with something: score multiplier, or even the readme file.
 
+#### To Run the Game:
+1. Install NPM
+2. In VSCode terminal, `npm install react`
+3. `npm start`
+
 ## Making and Pushing Changes
 Once you have made the changes you want, its time to actually 'commit' the changes. A commit is what stores the data of
 your changes: line insertion points, line removal points. Commits are what will tell GitHub where to place your code.
